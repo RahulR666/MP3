@@ -53,6 +53,10 @@ This project involves the development of a cross-platform MP3 player application
 ## Contributing
 
 Contributions are welcome! Feel free to submit a Pull Request or open an Issue to discuss potential improvements or bug fixes.
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 ## Contact
 
